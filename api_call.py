@@ -1,6 +1,6 @@
 import requests
 
-API_TOKEN = "NISCCTF{G17Hub_r3m3mb3r_3v3ry71ng}"
+API_TOKEN = "changeme"
 URL = "https://jsonplaceholder.typicode.com/posts"  # Public test API
 
 headers = {
